@@ -34,6 +34,9 @@ node telegram-bot-enhanced.js
 | System Settings | System Status | Position Details |
 |----------------|---------------|------------------|
 | ![Settings](docs/images/telegram-bot/IMG_4771_thumb.jpg) *`/settings` — system settings, safety features, and quick command reference* | ![Status](docs/images/telegram-bot/IMG_4768_thumb.jpg) *`/status` — full system health overview (Manager, Reserves, RVM)* | ![Position](docs/images/telegram-bot/IMG_4770.jpg) *`/position <addr>` — position details: current/target leverage, HF, TP/SL* |
+| Help | Settings | Position Details |
+|------|----------|------------------|
+| ![Help](docs/images/telegram-bot/IMG_4771_thumb.jpg) *`/help` — complete command reference and quick actions* | ![Settings](docs/images/telegram-bot/IMG_4768_thumb.jpg) *`/settings` — system settings and safety features* | ![Position](docs/images/telegram-bot/IMG_4770.jpg) *`/position <addr>` — position details: current/target leverage, HF, TP/SL* |
 
 | Help & Commands | Inline Buttons | Notifications |
 |-----------------|----------------|---------------|
