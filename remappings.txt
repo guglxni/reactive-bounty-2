@@ -1,0 +1,4 @@
+@reactive/=lib/reactive-lib/src/
+@openzeppelin/contracts/=lib/openzeppelin-contracts/contracts/
+@aave/=lib/aave-v3-core/contracts/
+forge-std/=lib/forge-std/src/

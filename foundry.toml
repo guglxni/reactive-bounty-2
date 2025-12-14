@@ -1,0 +1,32 @@
+[profile.default]
+src = "src"
+out = "out"
+libs = ["lib"]
+solc = "0.8.20"
+optimizer = true
+optimizer_runs = 200
+via_ir = true
+ffi = true
+fs_permissions = [{ access = "read", path = "./"}]
+
+# Ignore code size warnings for tests (EIP-170 limit is 24KB)
+ignored_error_codes = ["code-size"]
+
+[rpc_endpoints]
+sepolia = "${SEPOLIA_RPC_URL}"
+reactive = "${REACTIVE_RPC_URL}"
+
+[etherscan]
+sepolia = { key = "${ETHERSCAN_API_KEY}", url = "https://api-sepolia.etherscan.io/api" }
+
+[fmt]
+line_length = 120
+tab_width = 4
+bracket_spacing = true
+int_types = "long"
+multiline_func_header = "all"
+quote_style = "double"
+number_underscore = "thousands"
+single_line_statement_blocks = "preserve"
+
+# See more config options https://github.com/foundry-rs/foundry/blob/master/crates/config/README.md#all-options

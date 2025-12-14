@@ -1,0 +1,28 @@
+{
+  "name": "reactive-auto-looper-monitor",
+  "version": "1.0.0",
+  "description": "Real-time monitoring for Reactive Auto-Looper with Telegram notifications",
+  "type": "module",
+  "main": "monitor.js",
+  "scripts": {
+    "monitor": "node monitor.js",
+    "watch": "node watch-events.js",
+    "status": "node check-status.js",
+    "debug": "node debug-rvm.js",
+    "fund": "node fund-reserves.js",
+    "e2e": "node e2e-test.js",
+    "e2e:dry": "node e2e-test.js --dry-run",
+    "e2e:no-telegram": "node e2e-test.js --no-telegram",
+    "telegram": "node telegram-bot.js",
+    "bot": "node telegram-bot.js"
+  },
+  "dependencies": {
+    "boxen": "^7.1.1",
+    "chalk": "^5.3.0",
+    "cli-table3": "^0.6.3",
+    "dotenv": "^16.3.1",
+    "ethers": "^6.9.0",
+    "node-telegram-bot-api": "^0.67.0",
+    "ora": "^8.0.1"
+  }
+}
