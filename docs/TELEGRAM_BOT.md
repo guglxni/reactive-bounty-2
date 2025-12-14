@@ -31,9 +31,9 @@ node telegram-bot-enhanced.js
 
 **Gallery (click to enlarge):**
 
-| Welcome & Quick Actions | System Status | Position Details |
-|-------------------------|---------------|------------------|
-| ![Welcome](docs/images/telegram-bot/IMG_4767.jpg) *Welcome — `/start` screen with quick actions* | ![Status](docs/images/telegram-bot/IMG_4768.jpg) *System status — `/status` full health overview* | ![Position](docs/images/telegram-bot/IMG_4770.jpg) *Position details — leverage, HF, TP/SL* |
+| System Settings | System Status | Position Details |
+|----------------|---------------|------------------|
+| ![Settings](docs/images/telegram-bot/IMG_4771_thumb.jpg) *`/settings` — system settings and safety features* | ![Status](docs/images/telegram-bot/IMG_4768_thumb.jpg) *`/status` — full system health overview* | ![Position](docs/images/telegram-bot/IMG_4770.jpg) *Position details — leverage, HF, TP/SL* |
 
 | Help & Commands | Inline Buttons | Notifications |
 |-----------------|----------------|---------------|
