@@ -90,12 +90,12 @@ cd monitor && node telegram-bot-enhanced.js
 
 ### Bot Screenshots
 
-| System Status | Position Details |
-|---------------|------------------|
+| System Settings | Position Details |
+|-----------------|------------------|
 | ![Settings](docs/images/telegram-bot/IMG_4771_thumb.jpg) | ![Position](docs/images/telegram-bot/IMG_4768_thumb.jpg) |
-| `/settings` - System settings overview | `/position <addr>` - Leverage & HF |
+| `/settings` - System settings & command reference | `/position <addr>` - Leverage & HF |
 
-*Left: `/settings` — System settings and safety features.*  *Right: `/position <addr>` — Position details and health factor.*
+*Left: `/settings` — System settings, safety features, and command reference (see `/help`).*  *Right: `/position <addr>` — Position details including current & target leverage, health factor, TP/SL, and gas budgets.*
 
 ---
 

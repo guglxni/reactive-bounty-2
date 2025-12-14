@@ -33,11 +33,11 @@ node telegram-bot-enhanced.js
 
 | System Settings | System Status | Position Details |
 |----------------|---------------|------------------|
-| ![Settings](docs/images/telegram-bot/IMG_4771_thumb.jpg) *`/settings` — system settings and safety features* | ![Status](docs/images/telegram-bot/IMG_4768_thumb.jpg) *`/status` — full system health overview* | ![Position](docs/images/telegram-bot/IMG_4770.jpg) *Position details — leverage, HF, TP/SL* |
+| ![Settings](docs/images/telegram-bot/IMG_4771_thumb.jpg) *`/settings` — system settings, safety features, and quick command reference* | ![Status](docs/images/telegram-bot/IMG_4768_thumb.jpg) *`/status` — full system health overview (Manager, Reserves, RVM)* | ![Position](docs/images/telegram-bot/IMG_4770.jpg) *`/position <addr>` — position details: current/target leverage, HF, TP/SL* |
 
 | Help & Commands | Inline Buttons | Notifications |
 |-----------------|----------------|---------------|
-| ![Help](docs/images/telegram-bot/IMG_4771.jpg) *Help — categorized command list* | ![Buttons](docs/images/telegram-bot/IMG_4772.jpg) *Inline buttons — quick actions* | ![Notify](docs/images/telegram-bot/IMG_4775.jpg) *Real-time notifications — loop/unwind events* |
+| ![Help](docs/images/telegram-bot/IMG_4771.jpg) *`/help` — complete command reference (categorized)* | ![Buttons](docs/images/telegram-bot/IMG_4772.jpg) *Inline buttons — quick actions for commands like Status, Health, Contracts* | ![Notify](docs/images/telegram-bot/IMG_4775.jpg) *Real-time notifications — position and execution events* |
 
 **Additional images:** ![Reserves](docs/images/telegram-bot/IMG_4773.jpg) *Reserves — callback funding status* • ![RVM](docs/images/telegram-bot/IMG_4774.jpg) *RVM status — subscriptions & debt*
 
