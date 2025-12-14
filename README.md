@@ -92,8 +92,10 @@ cd monitor && node telegram-bot-enhanced.js
 
 | System Status | Position Details |
 |---------------|------------------|
-| ![Status](docs/images/telegram-bot/bot-status.png) | ![Position](docs/images/telegram-bot/bot-position.png) |
+| ![Status](docs/images/telegram-bot/IMG_4767.jpg) | ![Position](docs/images/telegram-bot/IMG_4768.jpg) |
 | `/status` - Full system health | `/position <addr>` - Leverage & HF |
+
+*Left: `/status` — Full system health.*  *Right: `/position <addr>` — Position details and health factor.*
 
 ---
 

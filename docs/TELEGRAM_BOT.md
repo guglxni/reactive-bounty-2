@@ -29,6 +29,18 @@ node telegram-bot-enhanced.js
 
 > **Live Production Screenshots** - Captured from @reactive_auto_looper_bot running on December 14, 2025
 
+**Gallery (click to enlarge):**
+
+| Welcome & Quick Actions | System Status | Position Details |
+|-------------------------|---------------|------------------|
+| ![Welcome](docs/images/telegram-bot/IMG_4767.jpg) *Welcome — `/start` screen with quick actions* | ![Status](docs/images/telegram-bot/IMG_4768.jpg) *System status — `/status` full health overview* | ![Position](docs/images/telegram-bot/IMG_4770.jpg) *Position details — leverage, HF, TP/SL* |
+
+| Help & Commands | Inline Buttons | Notifications |
+|-----------------|----------------|---------------|
+| ![Help](docs/images/telegram-bot/IMG_4771.jpg) *Help — categorized command list* | ![Buttons](docs/images/telegram-bot/IMG_4772.jpg) *Inline buttons — quick actions* | ![Notify](docs/images/telegram-bot/IMG_4775.jpg) *Real-time notifications — loop/unwind events* |
+
+**Additional images:** ![Reserves](docs/images/telegram-bot/IMG_4773.jpg) *Reserves — callback funding status* • ![RVM](docs/images/telegram-bot/IMG_4774.jpg) *RVM status — subscriptions & debt*
+
 ### Welcome & Start Screen
 The `/start` command provides a welcoming interface with quick action buttons:
 
