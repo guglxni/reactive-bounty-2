@@ -24,6 +24,34 @@ A production-grade, autonomous leveraged looping system built on Aave V3 that us
 
 ---
 
+## 🖥️ Frontend Interface
+
+A modern, interactive web interface for the Reactive Auto-Looper system. **[📖 Full Frontend Documentation](docs/FRONTEND.md)**
+
+### Hero & Landing
+![Hero Section](docs/images/frontend/hero.png)
+*The main landing page with vibrant design, workflow visualization, and call-to-action buttons.*
+
+### Interactive Dashboard
+| System Status | Position Lookup |
+|---------------|-----------------|
+| ![Dashboard System](docs/images/frontend/dashboard_system_status.png) | ![Dashboard Position](docs/images/frontend/dashboard_position_result.png) |
+| *Real-time contract status, reserves, and health checks* | *Query any wallet's position with leverage, HF, and state* |
+
+### Features & Tech Stack
+| Features | Tech Stack |
+|----------|------------|
+| ![Features](docs/images/frontend/features.png) | ![Tech Stack](docs/images/frontend/tech_stack.png) |
+| *Flash Loans, Health Guardian, Self-Sustaining Gas* | *Reactive Network, Aave V3, Foundry, Next.js* |
+
+### Contract Explorer
+![Deployed Contracts](docs/images/frontend/deployed_contracts.png)
+*Direct links to all deployed contracts on Sepolia and Lasna block explorers.*
+
+---
+
+
+
 ## 🎯 Deployed Contracts (Production - Testnet)
 
 | Contract | Network | Chain ID | Address |
